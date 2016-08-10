@@ -5,16 +5,7 @@ backup_images={
     # uuid: {name:xxxx,local:/mnt/backup/1}
     # 'd74924e0-3047-4df5-a0e7-791389af87b5_disk':{'name':'ceph_backup_test','local':'/mnt/backup/1'},
     # '5d26a114-db75-496e-aa23-e7844a36d0b1_disk':{'name':'wx','local':'/mnt/backup/4'},
-    # '12c24e92-9376-408d-8872-f973bf8a422a_disk':{'name':'ghwsx_ecshop','local':'/mnt/backup/4'},
-    # '6ce4e9b2-e132-4171-b8ea-b147f225c3cf_disk':{'name':'ghwsx_server','local':'/mnt/backup/3'},
-    # 'b5ca2c0c-26cb-4ccf-b763-4c4b401556b9_disk':{'name':'zdxm','local':'/mnt/backup/1'},
-    # '63a79953-84bd-4058-8b6d-e88e151c6ef3_disk':{'name':'gdgoods','local':'/mnt/backup/2'},
-    # 'bb25c8b3-1199-4807-96ab-dab1b9d988ad_disk':{'name':'gnc','local':'/mnt/backup/3'},
-    # '42bc0dd5-ce8b-4dff-8bf5-60150e1c34ee_disk':{'name':'go','local':'/mnt/backup/4'},
-    # 'acc2564c-7f00-4b5e-b9f1-4692cb61bd2b_disk':{'name':'cka','local':'/mnt/backup/4'},
-    # '3197d691-8149-4a94-9a0c-415929f67a34_disk':{'name':'nlp_ansj_api','local':'/mnt/backup/4'},
-    # '06109e1d-abf9-433c-952b-215a21782305_disk':{'name':'GDZGH-SCRAPY2','local':'/mnt/backup/1'},
-    # '04ea78e8-558e-451a-85d7-42ddf394a457_disk':{'name':'zdxmsearch','local':'/mnt/backup/2'},
+
 
 }
 
